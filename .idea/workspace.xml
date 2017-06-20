@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2d26b57-9334-49d9-856a-b8b821dae670" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/star_banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json/curvedwall.rvt.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3dsmax1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/drag-and-drop/r1/drag-and-drop-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/drag-and-drop/readm.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-mesh/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-mesh/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-mesh/r1/draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-mesh/r1/edit-mesh-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-mesh/r1/edit-mesh-r1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-mesh/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-mesh/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-mesh/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r6/draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r6/spline-editor-r6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r6/spline-maker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r7/draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r7/edit-spline-r7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r7/edit-spline-r7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r8/draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r8/edit-spline-r8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r8/edit-spline-r8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/r8/spline-objects.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/edit-spline/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/geometry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/json-build-export-geometry.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/json-build-export-multiple-objects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/json-build-export-multiple-shapes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/json-build-export-object.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/json-build-export-pentagon-as-planes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/json-import-view-basic-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/json-import-view-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/r2/json-build-export-geometry.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/revit-json-import-ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/revit-json-import-href.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/export-data-json/revit-json-import.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/file-open-collada-parse/r1/file-open-collada-parse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/file-open-collada-parse/r2/file-open-collada-parse-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/file-open-collada-parse/r2/file-open-collada-parse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/js/load-file-includes-r2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/js/load-file-includes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/WaltHeadLo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/threejs-div-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/threejs-div-interactive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/threejs-div-json-interactive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/json-reader/threejs-iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-binary-json/r1/load-binary-json-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-load/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-load/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-load/r1/load-collada-load-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-load/r2/load-collada-load-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-load/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-load/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-load/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-parse/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-parse/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-parse/r1/load-collada-parse-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-parse/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-parse/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-collada-parse/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-load/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-load/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-load/r1/load-json-load-r1-00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-load/r1/load-json-load-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-load/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-load/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-load/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-object/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-object/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-object/r1/load-json-object-r1-00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-object/r1/load-json-object-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-object/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-object/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-object/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-parse/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-parse/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-parse/r1/load-json-parse-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-parse/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-parse/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/load-json-parse/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/r1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/r1/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/NPP_16-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/NPP_16.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/SimpleModel-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/SimpleModel.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/Stardust_35-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/Stardust_35.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/VWS_B_Male2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/WaltHead-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/WaltHead-obj-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/WaltHeadLo-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/WaltHeadLo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/WaltHead_bin.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/WaltHead_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/WrightFlyer-pb-jw-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/WrightFlyer-pb-jw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/acesjustforroomshow-480x320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/avatar.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/dr1-480x320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/dr1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/drag-objects-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/drag-objects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/file.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/geometry-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/geometry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/have issues/SimpleModel-orig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/have issues/report.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/little_house.rvt-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/monster.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/monster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/object-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/object.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/pentagon-as-planes-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/pentagon-as-planes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/pr2_head_pan-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/pr2_head_pan.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/scene-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/scene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/schroder-house-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/schroder-house-r4-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/schroder-house-r4.js.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/template-skybox-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/three-boxes-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/three-boxes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/three-shapes-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/three-shapes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/wave-sphere-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/samples/wave-sphere.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/update-tracker/WaltHeadLo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/update-tracker/client-side-r1/update-tracker-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/update-tracker/client-side-r2/load-file-json4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/update-tracker/client-side-r2/update-tracker-client-side-json4-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/update-tracker/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/update-tracker/server-side-r1/iframe-source.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/update-tracker/server-side-r1/update-last-modified-read-file-iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/vertex-colors/r1/vertex-colors-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/vertex-colors/r2/geometry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/vertex-colors/r2/object-box.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/vertex-colors/r2/object-walt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/vertex-colors/r2/vertex-colors-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookbook/vertex-colors/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/expand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grasshopper1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grasshopper2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Dice-Blue-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Dice-Blue-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Dice-Blue-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Dice-Blue-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Dice-Blue-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Dice-Blue-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cubes/skybox/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cubes/skybox/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cubes/skybox/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cubes/skybox/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cubes/skybox/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cubes/skybox/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mesh-face-material.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/obje-exp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/revit1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/revit2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/NPP_16-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/NPP_16.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/SimpleModel-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/SimpleModel.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/Stardust_35-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/Stardust_35.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VWS_B_Male2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/WaltHead-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/WaltHead-obj-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/WaltHeadLo-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/WaltHeadLo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/WaltHead_bin.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/WaltHead_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/WrightFlyer-pb-jw-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/WrightFlyer-pb-jw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/acesjustforroomshow-480x320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/avatar.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/dr1-480x320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/dr1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/drag-objects-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/drag-objects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/file.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/geometry-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/geometry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/have issues/SimpleModel-orig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/have issues/report.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/little_house.rvt-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/monster.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/monster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/object-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/object.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/pentagon-as-planes-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/pentagon-as-planes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/pr2_head_pan-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/pr2_head_pan.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/scene-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/scene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/schroder-house-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/schroder-house-r4-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/schroder-house-r4.js.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/template-skybox-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/three-boxes-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/three-boxes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/three-shapes-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/three-shapes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/wave-sphere-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/wave-sphere.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/snippet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sun-position.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/UV_Grid_512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/UV_Grid_Sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/ash_uvgrid01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/Escher/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/Escher/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/Escher/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/Escher/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/Escher/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/Escher/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/SwedishRoyalCastle/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/SwedishRoyalCastle/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/SwedishRoyalCastle/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/SwedishRoyalCastle/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/SwedishRoyalCastle/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/SwedishRoyalCastle/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/SwedishRoyalCastle/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/check-2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-black-gray/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-black-gray/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-black-gray/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-black-gray/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-black-gray/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-black-gray/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-yellow-blue/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-yellow-blue/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-yellow-blue/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-yellow-blue/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-yellow-blue/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks-yellow-blue/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/checks/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/denim/d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/gridme.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/gridme/gridme/gridme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/gridme/gridme/gridme_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/gridme/gridme/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/pisa/nx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/pisa/ny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/pisa/nz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/pisa/px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/pisa/py.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/pisa/pz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/rgb-myc/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/rgb-myc/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/rgb-myc/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/rgb-myc/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/rgb-myc/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/rgb-myc/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/skybox/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/skybox/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/skybox/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/skybox/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/skybox/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/skybox/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/sm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/squared_metal/squared_metal/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/squared_metal/squared_metal/squared_metal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/squared_metal/squared_metal/squared_metal_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/white_brick_wall/d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/white_brick_wall/d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/white_brick_wall/wbw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/white_brick_wall/white_brick_wall/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/white_brick_wall/white_brick_wall/white_brick_wall.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cube/white_brick_wall/white_brick_wall/white_brick_wall_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/cynthia-draw-lightning.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/denim.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/disturb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/envmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/im1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/im2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/im3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/im4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/im5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/land_ocean_ice_cloud_2048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/lavatile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/moon_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/pure-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/sintel.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/sintel.ogv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/square-outline-textured.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/svg_21810/icon_21810/icon_21810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/svg_21810/icon_21810/icon_21810.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/svg_21810/icon_21810/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/water.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/wire.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/upload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/util2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/css/dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/css/embedded.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/css/light-trans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/css/light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/css/translucent.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/css/types.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Menubar.Add.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Menubar.Edit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Menubar.File.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Menubar.Help.About.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Menubar.Help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Menubar.Trigram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Menubar.View.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Menubar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.BoxGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.CircleGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.CylinderGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.IcosahedronGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.PlaneGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.SphereGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.TorusGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.TorusKnotGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Material.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Object3D.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Renderer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.Scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Sidebar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Storage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Toolbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/Viewport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/libs/signals.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/libs/ui.editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/libs/ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/js/libs/ui.three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r1/va3c-editor-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/css/dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/css/embedded.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/css/light-trans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/css/light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/css/translucent.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/css/types.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Menubar.Add.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Menubar.Edit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Menubar.File.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Menubar.Help.About.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Menubar.Help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Menubar.Trigram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Menubar.View.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Menubar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.BoxGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.CircleGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.CylinderGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.IcosahedronGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.PlaneGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.SphereGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.TorusGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.TorusKnotGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Material.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Object3D.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Renderer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.Scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Sidebar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Storage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Toolbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/Viewport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/libs/signals.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/libs/ui.editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/libs/ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/js/libs/ui.three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/r2/va3c-editor-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/cyan-klein-mesh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/hex-klein-scene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/hex-mesh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/miss-spacy-eyes-mesh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/monster-scene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/monster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/project-2-mesh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/rac_basic_sample_project_mesh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/scene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/spacy-tower-scene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/typ-tower-mesh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-editor/va3c-samples/vase-mesh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/contents.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/hacker-controls/camera-controls-hackette.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/hacker-controls/camera-controls-hackette.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/hacker-controls/camera-toggle-orbit-first-person.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/hacker-controls/first-person-controls-hacker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/hacker-controls/iframe-parent-first-person-control.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/hacker-controls/load-file-json-hackathon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/hacker-controls/load-file-stl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/readme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/threejs-controls/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/threejs-controls/threejs-first-person-controls-basic-update-status-settings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/threejs-controls/threejs-first-person-controls-basic-update-status.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/threejs-controls/threejs-first-person-controls-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/camera-controls/threejs-controls/threejs-fly-controls-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/contents.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/edit-camera-path-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/index-00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/r1/edit-camera-path-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/r1/edit-camera-path-r1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/r1/edit-camera-path-r1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/r1/spline-objects.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-camera-path/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-geometry-vertices/r1/draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-geometry-vertices/r1/edit-geometry-vertices-r1-the-game.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-geometry-vertices/r1/edit-geometry-vertices-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-geometry-vertices/r1/edit-geometry-vertices-the-game.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-geometry-vertices/r1/edit-geometry-vertices.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-geometry-vertices/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/edit-spline-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/r10/edit-spline-r10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/r10/edit-spline-r10.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/r10/edit-spline-r9.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/r10/spline-objects.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/r9/edit-spline-r9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/r9/edit-spline-r9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/r9/edit-spline-r9.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/r9/spline-objects.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/edit-spline/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-air-doodle/enable-air-doodle-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-air-doodle/models/WrightFlyer-pb-jw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-air-doodle/models/pumpkin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-air-doodle/models/rubber-duck-10.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-air-doodle/models/skeleton-left.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-air-doodle/r1/enable-air-doodle-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-air-doodle/r1/enable-air-doodle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-and-drop/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-and-drop/enable-drag-and-drop-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-and-drop/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-and-drop/r1/enable-drag-and-drop-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-and-drop/r1/enable-drag-and-drop-r1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-and-drop/r1/enable-drag-and-drop-r1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-and-drop/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/enable-drag-objects-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/r1/enable-drag-objects-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/r1/enable-drag-objects-r1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/r1/enable-drag-objects-r1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/r2/enable-drag-objects-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/r2/enable-drag-objects-r2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-drag-objects/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-file-modified-monitor/r2/enable-file-modified-monitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-file-modified-monitor/r2/enable-file-modified-monitor.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/enable-rotate-camera-after-delay/enable-rotate-camera-after-delay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/export-screen-grab/r2/export-screen-grabber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/geometry-shapes/r1/geometry-shapes-extrusions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/geometry-shapes/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/geometry-vertices-colors/aechack-warmup-three.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/geometry-vertices-colors/checkerboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/geometry-vertices-colors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/geometry-vertices-colors/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/geometry-vertices-colors/vertex-colors-walt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/geometry-vertices-colors/vertex-colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/interaction/mouseclick/r1/mouseclick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/interaction/mouseover/r1/New Text Document.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/interaction/mouseover/r1/mouseover..html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/load-file-stl/r1/Stardust_35.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/load-file-stl/r1/load-file-stl-by-by-file-dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/load-file-stl/r1/load-file-stl-by-url.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/load-file-stl/r1/load-file-stl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/open-json4-file-by-file-dialog/r1/open-json4-file-by-file-dialog-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/open-json4-file-by-file-dialog/r1/open-json4-file-by-file-dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/open-json4-file-by-file-dialog/r1/open-json4-file-by-file-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/archives/index-left-side-hackette-00-good.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/index-window-location-href.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/latest/sender.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/left-side-hackette/r1/left-side-hackette.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/left-side-hackette/r1/left-side-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/left-side-hackette/r1/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/left-side-hackette/r2/left-side-hackette.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/left-side-hackette/r2/left-side-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/left-side-hackette/r2/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/left-side-hackette/r2/test.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/readme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/template-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/template-threejs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/templates/template-update-iframe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/va3c-hacker-cookbook-viewer-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/view-file-json4-revit-hackathon-by-url/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/view-file-json4-revit-hackathon-by-url/index-00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/view-file-json4-revit-hackathon-by-url/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/view-file-json4-revit-hackathon-by-url/view-file-json4-revit-hackathon-by-url-iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker-cookbook/view-file-json4-revit-hackathon-by-url/view-file-json4-revit-hackathon-by-url.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/demo-aeronautical-architectural-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/demo-aeronautical-architectural-01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/load-file-json3-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/load-file-json3-01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/load-file-stl-00l.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/load-file-stl-01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/load-new-model-space.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/open-new-model-space.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/show-you-old-school-viewer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/stl-viewer-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/va3c-hacker-r1-00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/view-3dwarehouse-json-files-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r1/view-markdown-file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-3dev/browse-using-file-dialog-json4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-3dev/browse-using-file-dialog-json4.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-3dev/load-file-json3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-3dev/load-file-json4-by-contents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/browse-revit-json4-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/browse-templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/browse-using-file-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/dispatch-file-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/dispatch-file-01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/dispatch-file-by-hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/dispatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/enable-draggable-objects-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/enable-draggable-objects-01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/enable-draggable-objects-02.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/enable-draggable-objects-03.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/export-screen-grabber-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/load-file-html-by-contents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/load-file-html-by-url-by-hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/load-file-json-by-contents-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/load-file-stl-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/load-file-stl-by-content-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/readme-00.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/spline-maker-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/va3c-hacker-r2-4dev.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/archive/r2-4dev/view-glam-models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/fgx-aircraft/fgx-aircraft.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/fgx-aircraft/fgx-aircraft.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/browse-revit-json4-files-r2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/browse-revit-json4-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/little_house.rvt-640x480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/r2/enable-highlight-objects-r1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/r2/view-hackathon-files-iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/r2/view-hackathon-files.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/r2/view-json-revit-iframe-00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/r2/view-json-revit-iframe-01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/revit-project.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/content/revit/view-json-revit-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/faq.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/autoscript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/autoscript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/browse-3dwarehouse-json-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/browse-3dwarehouse-json-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/browse-nasa-stl-models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/browse-nasa-stl-models.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/browse-revit-json4-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/browse-revit-json4-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/demo-aeronautical-architectural.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/demo-aeronautical-architectural.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/demo-tell-you-the-time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/load-file-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/load-file-json3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/load-file-json4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/load-file-stl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/read-dev-notes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/readme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/tween-camera-and-target.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/va3c-hacker-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/view-glam-models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r1/view-glam-models.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/autoscript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/autoscript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-3dwarehouse-json-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-3dwarehouse-json-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-nasa-stl-models-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-nasa-stl-models-2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-nasa-stl-models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-nasa-stl-models.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-revit-json4-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-revit-json4-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-templates.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-using-file-dialog-json4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/browse-using-file-dialog-json4.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/demo-aeronautical-architectural.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/demo-aeronautical-architectural.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/demo-tell-you-the-time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/demo-tell-you-the-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/enable-drag-and-drop-json-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/enable-drag-and-drop-json-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/enable-draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/enable-draggable-objects.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/enable-file-modified-monitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/enable-file-modified-monitor.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/export-scene-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/export-scene-to-json.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/export-screen-grabber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/export-screen-grabber.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/load-file-html-by-contents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/load-file-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/load-file-json3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/load-file-json4-by-contents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/load-file-json4-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/load-file-stl-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/load-file-stl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/read-dev-notes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/read-faq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/read-readme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/read-road-map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/tween-camera-and-target.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/va3c-hacker-r2dev.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/view-glam-models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-1dev/view-glam-models.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/browse-revit-json4-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/browse-revit-json4-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/browse-templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/browse-templates.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/browse-using-file-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/browse-using-file-dialog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/demo-tell-you-the-time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/demo-tell-you-the-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/export-screen-grabber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/export-screen-grabber.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-by-contents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-by-hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-html-by-contents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-html-by-url-by-hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-html-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-json-by-contents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-json3-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-json4-by-url-by-hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-json4-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-stl-by-content.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-stl-by-url-by-hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/load-file-stl-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/read-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/va3c-hacker-r2-3dev.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/va3c-hacker-r2-3dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/va3c-hacker-r2-3dev.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/view-glam-models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-3dev/view-glam-models.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/browse-glam-models.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/browse-templates.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/browse-using-file-dialog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/demo-aeronautical-architectural.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/demo-aeronautical-architectural.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/demo-tell-you-the-time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/demo-tell-you-the-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/dispatch-file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/dispatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/enable-drag-and-drop-json-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/enable-drag-and-drop-json-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/enable-draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/enable-draggable-objects.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/export-geometry-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/export-object-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/export-scene-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/export-scene-to-json.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/export-screen-grabber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/load-file-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/load-file-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/load-file-obj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/load-file-stl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/read-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/spline-maker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/spline-maker.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/tween-camera-and-target.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/va3c-hacker-r2-4dev.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2-4dev/va3c-hacker-r2-4dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/browse-glam-models.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/browse-templates.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/browse-using-file-dialog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/demo-aeronautical-architectural.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/demo-aeronautical-architectural.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/demo-tell-you-the-time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/demo-tell-you-the-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/dispatch-file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/dispatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/enable-drag-and-drop-json-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/enable-drag-and-drop-json-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/enable-draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/enable-draggable-objects.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/export-geometry-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/export-object-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/export-scene-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/export-scene-to-json.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/export-screen-grabber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/load-file-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/load-file-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/load-file-obj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/load-file-stl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/read-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/spline-maker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/spline-maker.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/tween-camera-and-target.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/va3c-hacker-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r2/va3c-hacker-r2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/archive/edit-spline-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/archive/edit-spline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/archive/edit-spline.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/archive/enable-drag-and-drop-json-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/archive/enable-drag-and-drop-json-files.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/archive/enable-draggable-objects-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/archive/enable-draggable-objects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/archive/enable-draggable-objects.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/browse-glam-models.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/browse-templates.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/browse-using-file-dialog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/demo-aeronautical-architectural.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/demo-aeronautical-architectural.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/demo-tell-you-the-time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/demo-tell-you-the-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/dispatch-file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/dispatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/export-geometry-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/export-object-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/export-scene-to-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/export-scene-to-json.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/export-screen-grabber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/load-file-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/load-file-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/load-file-md.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/load-file-obj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/load-file-stl-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/load-file-stl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/read-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/spline-geometry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/tween-camera-and-target.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/va3c-hacker-r3-0dev.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/va3c-hacker-r3-0dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r3-0dev/va3c-hacker-r3-0dev.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r4/2015-02-12.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r4/2015-02-18.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r4/content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r4/menu-contents.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r4/readme-template.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r4/template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r4/va3c-hacker-r4-2015-02-12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/r4/va3c-hacker-r4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/road-map.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/templates/boilerplate-lights-shadows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/templates/clock-r1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/templates/template-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/templates/template-lights-shadows-preserve-drawing-buffer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/templates/template-lights-shadows-stl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/templates/template-lights-shadows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/templates/template-skybox-preserve-drawing-buffer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hacker/templates/template-skybox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/r1dev/load-file-html-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/r1dev/load-file-json-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/r1dev/load-file-obj-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/r1dev/load-file-stl-by-url-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/r1dev/load-file-stl-by-url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/r1dev/va3c-hackette-r1dev.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/r1dev/va3c-hackette-r1dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/r2dev/va3c-hackette-r2dev.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-hackette/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/dev-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/latest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/mash-ups/bohan-breather.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/mash-ups/breather.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/mash-ups/city-monster.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/mash-ups/fgx-threejs-meier.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/mash-ups/jeener-monkey.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/mash-ups/kein-pony.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/mash-ups/scene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/mash-ups/shadow+monster+fgx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/first-person-controls-theo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/va3c-viewer-html5-r2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/va3c-viewer-v3aa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/va3c-viewer-v3at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/va3c-viewer-v3bu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/va3c-viewer-v3cc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/va3c-viewer-v3fo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/va3c-viewer-v3pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r2/va3c-viewer-v3su.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/boilerplate-simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/boilerplate-va3c-big.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/boilerplate-va3c-small.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/ja-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jaat-attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jaca-camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jaes-export-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jafo-file-open.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jage-geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jali-lights.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jama-materials-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jama-materials.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/japl-permalinks-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/japl-permalinks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/japr-preferences.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/jath-three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/v3fa-fgx-aircraft-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/v3li-libraries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/v3mc-meier-controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/v3mh-meier-html-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/v3mh-meier-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/v3sh-stemkoski-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/v3te-threejs-examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/v3vj-va3c-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r3/va3c-viewer-html5-r3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/boilerplate-simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/ja-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/jaca-camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/jaes-export-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/jafo-file-open.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/jage-geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/jali-lights.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/jama-materials-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/jama-materials.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/japl-permalinks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/japr-preferences.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/jath-three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/v3fa-fgx-aircraft-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/v3li-libraries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/v3mc-meier-controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/v3mh-meier-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/v3sh-stemkoski-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/v3te-threejs-examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/v3vj-va3c-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r4/va3c-viewer-html5-r4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/boilerplate-simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/ja-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jaca-camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jaes-export-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jafo-file-open.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jage-geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jali-lights.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jama-materials-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jama-materials.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/japl-permalinks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/japr-preferences.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jath-three-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/jath-three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/template-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/v3fa-fgx-aircraft-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/v3li-libraries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/v3mc-meier-controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/v3mh-meier-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/v3sh-stemkoski-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/v3te-threejs-examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/v3vj-va3c-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r5/va3c-viewer-r5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/ja-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jaca-camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jaes-export-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open-01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open-02.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open-03.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open-04.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open-05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open-06.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open-07.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jafo-file-open.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jage-geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jali-lights-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jali-lights.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jama-materials-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jama-materials.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/japr-preferences.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/jath-three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/template-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3fa-fgx-aircraft-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3mc-meier-controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3mh-meier-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3pl-permalinks-00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3pl-permalinks-01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3pl-permalinks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3sh-stemkoski-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3te-threejs-examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3vj-va3c-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/v3vj-va3c-samples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r6/va3c-viewer-r6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/ja-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/jaca-camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/jaes-export-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/jafo-file-open.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/jage-geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/jali-lights.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/jama-materials-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/jama-materials.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/japr-preferences.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/jath-three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/template-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3fa-fgx-aircraft-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3mc-meier-controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3mh-meier-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3pl-permalinks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3sh-stemkoski-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3te-threejs-examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3vj-va3c-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/v3vj-va3c-samples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r7/va3c-viewer-r7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/autoscript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/ja-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jaca-camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jaes-export-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jafo-file-open.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jage-geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jali-lights.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jama-materials-data-xx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jama-materials-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jama-materials.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/japr-preferences.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/jath-three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/template-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3fa-fgx-aircraft-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3mc-meier-controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3mh-meier-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3pl-permalinks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3sh-stemkoski-html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3te-threejs-examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3vj-va3c-json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/v3vj-va3c-samples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/r8dev/va3c-viewer-r8dev.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/readme-menu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/readme-reader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/UV_Grid_512.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/UV_Grid_Sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/ash_uvgrid01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/Escher/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/Escher/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/Escher/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/Escher/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/Escher/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/Escher/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/SwedishRoyalCastle/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/SwedishRoyalCastle/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/SwedishRoyalCastle/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/SwedishRoyalCastle/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/SwedishRoyalCastle/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/SwedishRoyalCastle/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/SwedishRoyalCastle/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/check-2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-black-gray/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-black-gray/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-black-gray/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-black-gray/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-black-gray/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-black-gray/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-yellow-blue/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-yellow-blue/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-yellow-blue/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-yellow-blue/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-yellow-blue/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks-yellow-blue/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/checks/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/denim/d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/gridme.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/gridme/gridme/gridme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/gridme/gridme/gridme_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/gridme/gridme/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/pisa/nx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/pisa/ny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/pisa/nz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/pisa/px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/pisa/py.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/pisa/pz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/rgb-myc/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/rgb-myc/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/rgb-myc/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/rgb-myc/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/rgb-myc/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/rgb-myc/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/skybox/nx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/skybox/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/skybox/nz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/skybox/px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/skybox/py.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/skybox/pz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/sm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/squared_metal/squared_metal/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/squared_metal/squared_metal/squared_metal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/squared_metal/squared_metal/squared_metal_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/white_brick_wall/d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/white_brick_wall/d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/white_brick_wall/wbw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/white_brick_wall/white_brick_wall/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/white_brick_wall/white_brick_wall/white_brick_wall.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cube/white_brick_wall/white_brick_wall/white_brick_wall_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/cynthia-draw-lightning.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/denim.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/disturb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/envmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/im1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/im2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/im3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/im4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/im5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/land_ocean_ice_cloud_2048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/lavatile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/moon_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/pure-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/sintel.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/sintel.ogv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/square-outline-textured.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/svg_21810/icon_21810/icon_21810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/svg_21810/icon_21810/icon_21810.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/svg_21810/icon_21810/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/water.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/va3c-viewer-html5/textures/wire.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/viewer-00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/viewer-01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/viewer-revit.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Room.rvt.js" afterPath="$PROJECT_DIR$/json/Room.rvt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/guang.rvt.js" afterPath="$PROJECT_DIR$/json/guang.rvt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/guang2.rvt.js" afterPath="$PROJECT_DIR$/json/guang2.rvt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test.rvt.js" afterPath="$PROJECT_DIR$/json/test.rvt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/va3c-viewer.js" afterPath="$PROJECT_DIR$/va3c-viewer.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="109" column="64" lean-forward="false" selection-start-line="109" selection-start-column="60" selection-end-line="109" selection-end-column="64" />
+              <folding>
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Projector.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projector.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="va3c-viewer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/va3c-viewer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="196" column="104" lean-forward="false" selection-start-line="196" selection-start-column="104" selection-end-line="196" selection-end-column="104" />
+              <folding>
+                <marker date="1497963638352" expanded="true" signature="4920:4947" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="curvedwall.rvt.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/json/curvedwall.rvt.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>va3c</find>
+      <find>resetCamera()</find>
+      <find>zoomExtents()</find>
+      <find>updateLight()</find>
+      <find>light</find>
+      <find>button</find>
+      <find>styled-select</find>
+      <find>canvas</find>
+      <find>msg</find>
+      <find>Type</find>
+      <find>h</find>
+      <find>Om</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/va3c-viewer.js" />
+        <option value="$PROJECT_DIR$/Projector.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View_Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View_Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View_Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View_Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yyz\Desktop\Revit实验\View_Demo" />
+      <recent name="C:\Users\yyz\Desktop\Revit实验\View_Demo\json" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yyz\Desktop\Revit实验\View_Demo\json" />
+      <recent name="C:\Users\yyz\Desktop\Revit实验\View_Demo\images" />
+      <recent name="C:\Users\yyz\Desktop\Revit实验\View_Demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d26b57-9334-49d9-856a-b8b821dae670" name="Default" comment="" />
+      <created>1497943577117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497943577117</updated>
+      <workItem from="1497943578341" duration="27000" />
+      <workItem from="1497943640716" duration="19342000" />
+      <workItem from="1497965667539" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19570000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1078125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2398">
+          <caret line="109" column="64" lean-forward="false" selection-start-line="109" selection-start-column="60" selection-end-line="109" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/va3c-viewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4312">
+          <caret line="196" column="104" lean-forward="false" selection-start-line="196" selection-start-column="104" selection-end-line="196" selection-end-column="104" />
+          <folding>
+            <marker date="1497963638352" expanded="true" signature="4920:4947" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload.html" />
+    <entry file="file://$PROJECT_DIR$/mesh-face-material.js" />
+    <entry file="file://$PROJECT_DIR$/grasshopper1.html" />
+    <entry file="file://$PROJECT_DIR$/expand.html" />
+    <entry file="file://$PROJECT_DIR$/dropdown.html" />
+    <entry file="file://$PROJECT_DIR$/3dsmax1.html" />
+    <entry file="file://$PROJECT_DIR$/json/test.rvt.js">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sun-position.js" />
+    <entry file="file://$PROJECT_DIR$/readme-reader.html" />
+    <entry file="file://$PROJECT_DIR$/ColladaLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="79" column="65" lean-forward="false" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2046">
+          <caret line="33332" column="18" lean-forward="true" selection-start-line="33332" selection-start-column="13" selection-end-line="33332" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/Room.rvt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282502">
+          <caret line="12841" column="20" lean-forward="true" selection-start-line="12841" selection-start-column="20" selection-end-line="12841" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/curvedwall.rvt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/va3c-viewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="196" column="104" lean-forward="false" selection-start-line="196" selection-start-column="104" selection-end-line="196" selection-end-column="104" />
+          <folding>
+            <marker date="1497963638352" expanded="true" signature="4920:4947" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="109" column="64" lean-forward="false" selection-start-line="109" selection-start-column="60" selection-end-line="109" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
